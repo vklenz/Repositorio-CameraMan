@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
 	background: #000;
+=======
+	background: #333;
+>>>>>>> e99ad84336e28720903d8d5d710111ff1d57fc42
 }
 h1{
 	color: rgb(220,220,220);
